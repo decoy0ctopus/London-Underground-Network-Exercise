@@ -1,5 +1,7 @@
 # COMP70053 - Python Programming - 2021 - Coursework 2
 
+Python exercise completed Apr 22.
+
 ## Project Structure
 
 ```
@@ -14,6 +16,7 @@ Project folder/
 │  ├─ map.py
 ├─ main.py
 ```
+
 
 ### `data/`
 
